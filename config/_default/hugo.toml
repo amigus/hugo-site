@@ -1,0 +1,11 @@
+baseURL = 'https://hugo-website/'
+enableEmoji = true
+enableRobotsTXT = true
+languageCode = 'en-us'
+title = 'A Hugo website'
+author = 'Me'
+copyright = '©️ 2024 My Name. All rights reserved.'
+description = 'A Hugo website'
+[params]
+  googleFont = 'Fira Sans'
+[services]

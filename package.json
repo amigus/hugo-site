@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "hugo-extended": "^0.126.0",
+    "postcss-cli": "^11.0.0"
+  },
+  "engines": {
+    "node": ">= 16.0.0"
+  },
+  "scripts": {
+    "build": "hugo"
+  }
+}
